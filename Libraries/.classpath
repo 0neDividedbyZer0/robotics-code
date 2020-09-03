@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Maverick1/Desktop/Desktop2/json-simple-master/jar/json-simple-1.1.1.jar" sourcepath="C:/Users/Maverick1/Desktop/Desktop2/json-simple-master/src"/>
+	<classpathentry kind="lib" path="C:/Users/Maverick1/wpilib/java/current/lib/WPILib-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maverick1/wpilib/java/current/lib/WPILib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maverick1/Desktop/Desktop2/ojalgo-45.1.1.jar" sourcepath="C:/Users/Maverick1/Desktop/Desktop2/ojAlgo-develop/src"/>
+	<classpathentry kind="lib" path="C:/Users/Maverick1/wpilib/user/java/lib/CTRE_Phoenix.jar" sourcepath="C:/Users/Maverick1/wpilib/user/java/lib/CTRE_Phoenix-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Maverick1/wpilib/user/java/docs/CTRE_Phoenix-javadoc/com/ctre/phoenix/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
